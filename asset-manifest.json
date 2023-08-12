@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Gamers/static/css/main.570f3cd9.css",
+    "main.js": "/Gamers/static/js/main.f6829297.js",
+    "static/media/welcome-1.jpg": "/Gamers/static/media/welcome-1.7ee73d7daf8eb5288a59.jpg",
+    "static/media/wallpaperflare.com_wallpaper4.jpg": "/Gamers/static/media/wallpaperflare.com_wallpaper4.7e0a2496824377ba44da.jpg",
+    "static/media/fa-solid-900.ttf": "/Gamers/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/Gamers/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/index_thumbnail.png": "/Gamers/static/media/index_thumbnail.04e2c7af2a69ca0d0c80.png",
+    "static/media/fa-solid-900.woff2": "/Gamers/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/Gamers/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/Gamers/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/fa-regular-400.woff2": "/Gamers/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/error-page-thoughtful-panda-asks-philosophical-question-design-template-layered-file-clipping-mask-used-83565643-1.webp": "/Gamers/static/media/error-page-thoughtful-panda-asks-philosophical-question-design-template-layered-file-clipping-mask-used-83565643-1.5f96b3a2602cb9356c43.webp",
+    "static/media/fa-v4compatibility.ttf": "/Gamers/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Gamers/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/Gamers/index.html",
+    "main.570f3cd9.css.map": "/Gamers/static/css/main.570f3cd9.css.map",
+    "main.f6829297.js.map": "/Gamers/static/js/main.f6829297.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.570f3cd9.css",
+    "static/js/main.f6829297.js"
+  ]
+}
