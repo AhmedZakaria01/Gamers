@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Courgette&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Courgette&display=swap");
+
+:root {
+  --bg-color: #050405;
+  --main-font: "Courgette", cursive;
+  --item-font: "Courgette", cursive;
+  --light-bg: #24baef;
+  --font-color: #fff;
+  --second-color: #32383e;
+  --bgRedColor: #8d3030;
+
+}
+
+
+
+body {
+  background-color: var(--bg-color);
+  color: var(--font-color);
+  font-family: var(--main-font);
+}
+
+a {
+  text-decoration: none;
+}
+
+.login-box,
+.register-box {
+  box-shadow: -3px -3px 69px -35px rgb(138, 5, 5);
+}
+
+.bgRedColor {
+  background-color: var(--bgRedColor) !important;
+}
+
+.item {
+  transition: all 0.3s ease-in-out;
+  max-width: 300px;
+  box-shadow: -13px -3px 69px -35px rgba(224, 4, 4, 0.692);
+  padding: 0px;
+  font-family: var(--item-font);
+}
+
+.item h5 {
+  font-weight: normal !important;
+  color: rgb(219, 8, 11) !important;
+}
+
+.item:hover {
+  transform: scale(1.03);
+  cursor: pointer;
+  overflow: hidden !important;
+}
+
+.item div {
+  background-color: rgb(3, 3, 3) !important;
+}
+
+
+
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  .item h5 {
+    font-size: 20px !important;
+  }
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+  .item h5 {
+    font-size: 18px !important;
+  }
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .item h5 {
+    font-size: 18px !important;
+  }
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .item h5 {
+    font-size: 20px !important;
+  }
+}
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+  .item h5 {
+    font-size: 18px !important;
+  }
+}

@@ -1,0 +1,30 @@
+@import '../../index.css';
+
+
+.header {
+position: relative;
+background-image: url(../../images/wallpaperflare.com_wallpaper4.jpg);
+background-size: 100% 100%;
+background-repeat: no-repeat;
+background-position: center;
+background-color: #1c1e22;
+z-index: 1;
+box-shadow: -13px -3px 69px -35px rgba(224, 4, 4, 0.164);
+
+
+
+}
+.header h2 , .header h6 {
+
+
+    color: #fff !important;
+}
+.layer {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    background-color: #000000d5;
+    z-index: -9;
+}
